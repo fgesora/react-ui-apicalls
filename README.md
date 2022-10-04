@@ -10,4 +10,5 @@ mockapi - used to provide mock end points
 
 **#running**
 
+Clone repo & switch to branch master
 Start service using npm start or yarn start depending on preference
